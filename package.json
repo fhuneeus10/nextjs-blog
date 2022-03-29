@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^4.3.1",
+    "@prismicio/next": "^0.1.0",
+    "@prismicio/react": "^2.1.2",
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
     "next": "^12.1.0",
